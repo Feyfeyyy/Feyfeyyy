@@ -9,7 +9,7 @@
 <img src="https://readme-typing-svg.herokuapp.com?size=26&duration=2500&lines=Welcome+to+my+GitHub+Page!;Please+have+a+read+a+look!" > 
 </p>
 
-## <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> About me
+## <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="25px"> About me
 
 ![Line][line]
 
@@ -30,7 +30,7 @@ I-am-Feyfeyyy@github
 ```
 <hr>
 
-## 🛠️ Technologies & Tools
+## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="25px">  Technologies & Tools
 
 ![Line][line]
 
@@ -44,7 +44,7 @@ I-am-Feyfeyyy@github
 ![JavaScript][javascript-shield]
 
 
-##  <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Statistics.gif?raw=true" width = "30px"> GitHub Stats:
+##  <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Statistics.gif?raw=true" width = "25px"> GitHub Stats:
 
 ![Line][line]
 
@@ -54,13 +54,13 @@ I-am-Feyfeyyy@github
 
 ![Feyaaz's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Feyfeyyy&layout=compact&theme=transparent)
 
-## ✍️ Random Dev Quote
+## <img src="https://media2.giphy.com/media/j6YjJzHOoSloD2VcVq/giphy.gif" width="30px"> Random Dev Quote
 
 ![Line][line]
 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko)
 
-## 📫 Contact Me
+## <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="45px">  Contact Me
 
 ![Line][line]
 
