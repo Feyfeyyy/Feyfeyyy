@@ -34,15 +34,7 @@ I-am-Feyfeyyy@github
 
 ![Line][line]
 
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,nodejs,flask,fastapi,express,django,python" />
-    <img src="https://skillicons.dev/icons?i=javascript,react,tailwind,materialui" />
-    <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgresql,redis,dynamodb" />
-    <img src="https://skillicons.dev/icons?i=git,github,docker,figma,idea,vscode,pycharm,postman,grafana" />
-    <img src="https://skillicons.dev/icons?i=aws,gcp" />
-  </a>
-</p>
+![TechTools][techtools]
 
 
 ##  <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Statistics.gif?raw=true" width = "25px"> GitHub Stats:
@@ -73,19 +65,11 @@ You can reach me on the following platforms:
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
 [header]: assets/feyaazc_header.png
-[python-shield]: https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54
-[flask-shield]: https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white
-[fastapi-shield]: https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi&logoColor=white
-[django-shield]: https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white
-[html-shield]: https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white
-[css-shield]: https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white
-[javascript-shield]: https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E
-[linkedin-shield]: https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white
 [linkedin-url]: https://www.linkedin.com/in/feyaaz-chishty/
-[profile-shield]: https://komarev.com/ghpvc/?username=Feyfeyyy&label=Profile%20Visits&color=blue&style=for-the-badge
 [line]: https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif
 [email]: https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white
 [mailto:]: mailto:feyaazc94@gmail.com
+[techtools]: https://skillicons.dev/icons?i=java,nodejs,flask,fastapi,express,django,python,javascript,react,tailwind,materialui,mongodb,mysql,postgresql,redis,dynamodb,git,github,docker,figma,idea,vscode,pycharm,postman,grafana,aws,gcp,githubactions,gitlab,html,css,bootstrap
 
 <!---
 Feyfeyyy/Feyfeyyy is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
