@@ -1,5 +1,39 @@
 ![Header][header]
 
+<h4 align="center">Visitor's count</h4>
+<p align="center"><img src="https://profile-counter.glitch.me/{Feyfeyyy}/count.svg" alt="AnhellO :: Visitor's Count" /></p>
+
+<h1 align="center"> Hello Fellow < Developers/ >! </h1>
+
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?size=26&duration=2500&lines=Welcome+to+my+GitHub+Page!;Please+have+a+read+a+look!" > 
+</p>
+
+## <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> About me
+
+![Line][line]
+
+<p align="center"> My name is Feyaaz Chishty. </p>
+
+
+<hr>
+
+```
+I-am-Feyfeyyy@github
+-------------------------
+💻 I am a self taught Developer/Programmer/Engineer
+📝 I have a strong interest in programminng and software development
+🔭 Working on a few projects to improve my skills and open to collaborate
+🌱 Learning about new coding languages, data science and machine learning stuff
+🚩 Interested in full stack application development, travel, food and gaming!
+🎵 Love grime, drum & base, house and instrumental music
+```
+<hr>
+
+## 🛠️ Technologies & Tools
+
+![Line][line]
+
 ![][profile-shield]
 ![Python][python-shield]
 ![Flask][flask-shield]
@@ -8,8 +42,32 @@
 ![HTML][html-shield]
 ![CSS][css-shield]
 ![JavaScript][javascript-shield]
-[![LinkedIn][linkedin-shield]][linkedin-url]
 
+
+##  <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Statistics.gif?raw=true" width = "30px"> GitHub Stats:
+
+![Line][line]
+
+![Feyaaz's GitHub stats](https://github-readme-stats.vercel.app/api?username=Feyfeyyy&show_icons=true&theme=transparent)
+
+![Feyaaz's Streak stats](https://github-readme-streak-stats.herokuapp.com/?user=Feyfeyyy&theme=transparent)
+
+![Feyaaz's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Feyfeyyy&layout=compact&theme=transparent)
+
+## ✍️ Random Dev Quote
+
+![Line][line]
+
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko)
+
+## 📫 Contact Me
+
+![Line][line]
+
+You can reach me on the following platforms:
+
+[![LinkedIn][linkedin-shield]][linkedin-url]
+[![Email][email]][mailto:]
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
@@ -21,30 +79,12 @@
 [html-shield]: https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white
 [css-shield]: https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white
 [javascript-shield]: https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E
-[linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
+[linkedin-shield]: https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white
 [linkedin-url]: https://www.linkedin.com/in/feyaaz-chishty/
 [profile-shield]: https://komarev.com/ghpvc/?username=Feyfeyyy&label=Profile%20Visits&color=blue&style=for-the-badge
-
-## About me
-
----
-
-My name is Feyaaz Chishty. 
-
-An upcoming developer who has been self-taught. I'm passionate about learning new technologies and building projects that solve real-world problems.
-My curren specialised language is Python, but I'm always looking to learn new languages and frameworks.
-
-Hoping to one day become a full-stack developer/ software engineer/ data engineer.
-
-I'm always looking to collaborate on projects that will help me grow as a developer.
-
-## Stats
-
----
-
-![Feyaaz's GitHub stats](https://github-readme-stats.vercel.app/api?username=Feyfeyyy&show_icons=true&theme=transparent)
-
-
+[line]: https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif
+[email]: https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white
+[mailto:]: mailto:feyaazc94@gmail.com
 
 <!---
 Feyfeyyy/Feyfeyyy is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
