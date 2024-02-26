@@ -34,14 +34,15 @@ I-am-Feyfeyyy@github
 
 ![Line][line]
 
-![][profile-shield]
-![Python][python-shield]
-![Flask][flask-shield]
-![FastAPI][fastapi-shield]
-![Django][django-shield]
-![HTML][html-shield]
-![CSS][css-shield]
-![JavaScript][javascript-shield]
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=java,nodejs,flask,fastapi,express,django,python" />
+    <img src="https://skillicons.dev/icons?i=javascript,react,tailwind,materialui" />
+    <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgresql,redis,dynamodb" />
+    <img src="https://skillicons.dev/icons?i=git,github,docker,figma,idea,vscode,pycharm,postman,grafana" />
+    <img src="https://skillicons.dev/icons?i=aws,gcp" />
+  </a>
+</p>
 
 
 ##  <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Statistics.gif?raw=true" width = "25px"> GitHub Stats:
