@@ -6,7 +6,7 @@
 <h1 align="center"> Hello Fellow < Developers/ >! </h1>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?size=26&duration=2500&lines=Welcome+to+my+GitHub+Page!;Please+have+a+read+a+look!" > 
+<img src="https://readme-typing-svg.herokuapp.com?size=26&duration=2900&lines=Welcome+to+my+GitHub+Page!;Please+have+a+read+or+look!" > 
 </p>
 
 ## <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="25px"> About me
