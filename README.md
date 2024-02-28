@@ -70,7 +70,7 @@ You can reach me on the following platforms:
 [line]: https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif
 [email]: https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white
 [mailto:]: mailto:feyaazc94@gmail.com
-[techtools]: https://skillicons.dev/icons?i=java,nodejs,flask,fastapi,express,django,python,javascript,react,tailwind,materialui,mongodb,mysql,postgresql,redis,dynamodb,git,github,docker,figma,idea,vscode,pycharm,postman,grafana,aws,gcp,githubactions,gitlab,html,css,bootstrap
+[techtools]: https://skillicons.dev/icons?i=java,nodejs,flask,fastapi,express,django,python,javascript,react,tailwind,materialui,mongodb,mysql,postgresql,redis,dynamodb,git,github,docker,figma,idea,vscode,pycharm,postman,grafana,aws,gcp,githubactions,gitlab,html,css,bootstrap,netlify
 
 <!---
 Feyfeyyy/Feyfeyyy is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
