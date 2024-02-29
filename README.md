@@ -51,7 +51,7 @@ I-am-Feyfeyyy@github
 
 ![Line][line]
 
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko)
+![Quotes][quotes]
 
 ## <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="45px">  Contact Me
 
@@ -71,6 +71,7 @@ You can reach me on the following platforms:
 [email]: https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white
 [mailto:]: mailto:feyaazc94@gmail.com
 [techtools]: https://skillicons.dev/icons?i=java,nodejs,flask,fastapi,express,django,python,javascript,react,tailwind,materialui,mongodb,mysql,postgresql,redis,dynamodb,git,github,docker,figma,idea,vscode,pycharm,postman,grafana,aws,gcp,githubactions,gitlab,html,css,bootstrap,netlify
+[quotes]: https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko
 
 <!---
 Feyfeyyy/Feyfeyyy is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
